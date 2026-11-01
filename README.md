@@ -35,8 +35,8 @@ final class SarojChhetri extends FullStackDeveloper
     <td><b>Backend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,django,py&theme=dark" />
-        <img alt="Laravel, PHP, Django, Python" height="40" src="https://skillicons.dev/icons?i=laravel,php,django,py&theme=light" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cdjango%2Cpy&theme=dark" />
+        <img alt="Laravel, PHP, Django, Python" height="40" src="https://skillicons.dev/icons?i=laravel%2Cphp%2Cdjango%2Cpy&theme=light" />
       </picture>
     </td>
   </tr>
@@ -44,8 +44,8 @@ final class SarojChhetri extends FullStackDeveloper
     <td><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,vue,react,tailwind,js,html,css&theme=dark" />
-        <img alt="Next.js, Vue.js, React, Tailwind CSS, JavaScript, HTML, CSS" height="40" src="https://skillicons.dev/icons?i=nextjs,vue,react,tailwind,js,html,css&theme=light" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Cvue%2Creact%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=dark" />
+        <img alt="Next.js, Vue.js, React, Tailwind CSS, JavaScript, HTML, CSS" height="40" src="https://skillicons.dev/icons?i=nextjs%2Cvue%2Creact%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" />
       </picture>
     </td>
   </tr>
@@ -53,8 +53,8 @@ final class SarojChhetri extends FullStackDeveloper
     <td><b>Databases</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-        <img alt="MySQL, PostgreSQL" height="40" src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres&theme=dark" />
+        <img alt="MySQL, PostgreSQL" height="40" src="https://skillicons.dev/icons?i=mysql%2Cpostgres&theme=light" />
       </picture>
     </td>
   </tr>
@@ -62,8 +62,8 @@ final class SarojChhetri extends FullStackDeveloper
     <td><b>DevOps</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,nginx,git,github&theme=dark" />
-        <img alt="Linux, Nginx, Git, GitHub" height="40" src="https://skillicons.dev/icons?i=linux,nginx,git,github&theme=light" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cnginx%2Cgit%2Cgithub&theme=dark" />
+        <img alt="Linux, Nginx, Git, GitHub" height="40" src="https://skillicons.dev/icons?i=linux%2Cnginx%2Cgit%2Cgithub&theme=light" />
       </picture>
     </td>
   </tr>
