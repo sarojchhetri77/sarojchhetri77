@@ -33,7 +33,7 @@ final class SarojChhetri extends FullStackDeveloper
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td width="100%">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cdjango%2Cpy&theme=dark" />
         <img alt="Laravel, PHP, Django, Python" height="40" src="https://skillicons.dev/icons?i=laravel%2Cphp%2Cdjango%2Cpy&theme=light" />
@@ -42,7 +42,7 @@ final class SarojChhetri extends FullStackDeveloper
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td width="100%">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Cvue%2Creact%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=dark" />
         <img alt="Next.js, Vue.js, React, Tailwind CSS, JavaScript, HTML, CSS" height="40" src="https://skillicons.dev/icons?i=nextjs%2Cvue%2Creact%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" />
@@ -51,7 +51,7 @@ final class SarojChhetri extends FullStackDeveloper
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td width="100%">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres&theme=dark" />
         <img alt="MySQL, PostgreSQL" height="40" src="https://skillicons.dev/icons?i=mysql%2Cpostgres&theme=light" />
@@ -60,13 +60,20 @@ final class SarojChhetri extends FullStackDeveloper
   </tr>
   <tr>
     <td><b>DevOps</b></td>
-    <td width="100%">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cnginx%2Cgit%2Cgithub&theme=dark" />
         <img alt="Linux, Nginx, Git, GitHub" height="40" src="https://skillicons.dev/icons?i=linux%2Cnginx%2Cgit%2Cgithub&theme=light" />
       </picture>
     </td>
   </tr>
+  <tr>
+    <td><b>Contact</b></td>
+    <td>
+      <a href="mailto:chhetrisaroj150@gmail.com">chhetrisaroj150@gmail.com</a> · <a href="https://www.linkedin.com/in/saroj-chhetri-31a032236">LinkedIn</a>
+      <br />
+      <!-- A transparent 2000px spacer: it shrinks to fit, so the table always spans the full width. -->
+      <img src="assets/spacer.svg" width="2000" height="1" alt="" />
+    </td>
+  </tr>
 </table>
-
-[chhetrisaroj150@gmail.com](mailto:chhetrisaroj150@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saroj-chhetri-31a032236)
