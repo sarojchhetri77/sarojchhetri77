@@ -2,29 +2,71 @@
 
 Full Stack Developer in Pokhara, Nepal. I build Laravel platforms that serve many clients from one codebase, put Next.js and Vue.js front ends on them, and keep them running in production.
 
-Currently a Full Stack Developer at [Nep Tech Pal](https://github.com/Neptechpal-pvt-ltd). Open to full-time roles and freelance projects.
+```php
+<?php
 
-#### Live in production
+namespace Pokhara\Nepal;
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [Luxmi Vastra Vatika](https://luxmiivastravatika.com) | Headless eCommerce store with admin-configurable filters | Laravel REST API · Next.js · MySQL |
-| [Lakshya LMS](https://lakshyalms.com) | Learning management system for institutions and educators | Laravel · MySQL |
-| [RentalBanner](https://rentalbanner.com) | Subscription rental marketplace with tiered plans | Laravel · MySQL · Next.js |
-| [Kalika Multiple Campus](https://kmcpokhara.edu.np) | College website with a role-restricted CMS | Laravel API · Next.js · MySQL |
-| [Bhanubhakta Multiple Campus](https://bhanubhaktacampus.edu.np) | College website, back end and front end | Next.js |
-| [PB Store](https://pbstore.com.np) | eCommerce store with an admin and staff hierarchy | Laravel API · Vue.js · MySQL |
+final class SarojChhetri extends FullStackDeveloper
+{
+    protected string $role = 'Full Stack Developer @ Nep Tech Pal';
 
-Also built for clients: multi-tenant SaaS for real estate agencies (matching engine, real-time chat, scheduled reminders) and a multi-tenant hotel booking platform with availability locking.
+    protected array $stack = [
+        'backend'  => ['Laravel', 'PHP', 'Django', 'Python'],
+        'frontend' => ['Next.js', 'Vue.js', 'React', 'Tailwind CSS'],
+        'data'     => ['MySQL', 'PostgreSQL'],
+        'devops'   => ['Linux', 'Nginx', 'Apache', 'Git'],
+    ];
 
-#### What I work with
+    public function focus(): array
+    {
+        return ['Multi-tenant SaaS', 'REST APIs', 'Real-time features', 'Query performance'];
+    }
 
-**Backend:** Laravel, PHP, Django, Python, REST APIs, queues and scheduled jobs, WebSockets
-**Frontend:** Next.js, Vue.js, React, Tailwind CSS
-**Data:** MySQL, PostgreSQL, query optimisation and indexing
-**Payments and security:** Stripe, Dodo Payments, RBAC, CSRF/XSS/SQL-injection protection
-**Ops:** Linux, Nginx, Apache, SSL, Git
+    public function openTo(): array
+    {
+        return ['Full-time roles', 'Freelance projects'];
+    }
+}
+```
 
-#### Get in touch
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,django,py&theme=dark" />
+        <img alt="Laravel, PHP, Django, Python" height="40" src="https://skillicons.dev/icons?i=laravel,php,django,py&theme=light" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,vue,react,tailwind,js,html,css&theme=dark" />
+        <img alt="Next.js, Vue.js, React, Tailwind CSS, JavaScript, HTML, CSS" height="40" src="https://skillicons.dev/icons?i=nextjs,vue,react,tailwind,js,html,css&theme=light" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+        <img alt="MySQL, PostgreSQL" height="40" src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,nginx,git,github&theme=dark" />
+        <img alt="Linux, Nginx, Git, GitHub" height="40" src="https://skillicons.dev/icons?i=linux,nginx,git,github&theme=light" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 [chhetrisaroj150@gmail.com](mailto:chhetrisaroj150@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saroj-chhetri-31a032236)
